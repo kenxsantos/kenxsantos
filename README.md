@@ -4,7 +4,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Full Stack Laravel**
+- 🌱 I’m currently working at **Out of the Box Creatives** as a Junior Web Developer
 
 - 📫 How to reach me **kenxsantos@gmail.com**
 
