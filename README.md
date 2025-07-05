@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Developer | Flutter Developer</h1>
+<h1 align="center">Full Stack Developer | Mobile Developer</h1>
 
 ###
 
