@@ -53,8 +53,4 @@
   <img src="https://img.shields.io/static/v1?message=Ken%20Santos&logo=facebook&label=Facebook&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
 </div>
 
-###
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenxsantos&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-  ![](https://nirzak-streak-stats.vercel.app/?user=kenxsantos&theme=dark&hide_border=false)<br/>
 
